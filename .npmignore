@@ -9,4 +9,3 @@ jsdoc-conf.json
 .travis.yml
 .gitignore
 *.js.map
-*.ts
